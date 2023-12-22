@@ -1,4 +1,4 @@
-# 🔥🔥 Wooble Social Media App 
+Wooble Social Media App 
 
 Wooble is a fully functional social media app with multiple features built with flutter and dart.
 
